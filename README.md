@@ -18,4 +18,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/utkarshsxn12/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
