@@ -28,4 +28,8 @@ A collection of LeetCode questions
 | [1148-article-views-i](https://github.com/utkarshsxn12/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/utkarshsxn12/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/utkarshsxn12/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
