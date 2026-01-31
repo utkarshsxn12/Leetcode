@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
+| [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +80,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
