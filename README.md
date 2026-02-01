@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions
 | ------- |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
