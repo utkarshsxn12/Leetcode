@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
