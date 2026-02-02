@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -98,4 +101,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
