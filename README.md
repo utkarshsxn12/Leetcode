@@ -46,6 +46,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | ------- |
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
