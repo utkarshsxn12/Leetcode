@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
