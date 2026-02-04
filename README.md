@@ -58,6 +58,7 @@ A collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
