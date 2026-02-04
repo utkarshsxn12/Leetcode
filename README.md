@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
