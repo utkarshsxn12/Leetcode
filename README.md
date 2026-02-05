@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0283-move-zeroes) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
