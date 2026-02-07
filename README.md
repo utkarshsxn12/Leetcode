@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
