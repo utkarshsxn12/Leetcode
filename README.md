@@ -159,6 +159,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -176,6 +177,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
