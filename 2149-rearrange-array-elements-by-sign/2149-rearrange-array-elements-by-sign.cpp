@@ -13,12 +13,12 @@ public:
             }
         }
         for(int i=0;i<pos.size();i++){
-            for(int j=0;j<neg.size();j++){
+            
                 ans.push_back(pos[i]);
-                i++;
-                ans.push_back(neg[j]);
+            
+                ans.push_back(neg[i]);
             }
-        }
+        
         return ans;
     }
 };
