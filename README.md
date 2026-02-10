@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/utkarshsxn12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsxn12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
@@ -210,8 +211,10 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
