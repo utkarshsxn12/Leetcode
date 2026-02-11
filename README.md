@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0031-next-permutation](https://github.com/utkarshsxn12/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
