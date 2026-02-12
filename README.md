@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
