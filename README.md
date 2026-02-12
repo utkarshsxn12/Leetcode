@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsxn12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsxn12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
