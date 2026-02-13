@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsxn12/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
