@@ -6,6 +6,7 @@ A collection of LeetCode questions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshsxn12/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/utkarshsxn12/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/utkarshsxn12/Leetcode/tree/master/0031-next-permutation) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
