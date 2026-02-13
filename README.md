@@ -233,6 +233,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/utkarshsxn12/Leetcode/tree/master/0901-online-stock-span) |
@@ -249,9 +250,14 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/utkarshsxn12/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/utkarshsxn12/Leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
