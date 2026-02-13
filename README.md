@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -70,6 +71,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
