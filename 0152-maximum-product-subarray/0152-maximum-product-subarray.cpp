@@ -9,6 +9,7 @@ public:
             if(suff==0) suff=1;
             pre *= arr[i];
             suff *= arr[n - i - 1];
+            
             ans = max(ans, max(pre, suff));
 
         }
