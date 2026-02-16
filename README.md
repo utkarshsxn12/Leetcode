@@ -309,10 +309,12 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -321,5 +323,6 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
