@@ -53,6 +53,7 @@ A collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsxn12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -342,4 +345,8 @@ A collection of LeetCode questions
 | [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
