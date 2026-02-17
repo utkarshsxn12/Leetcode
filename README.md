@@ -112,6 +112,7 @@ A collection of LeetCode questions
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/utkarshsxn12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/utkarshsxn12/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
