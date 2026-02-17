@@ -195,6 +195,7 @@ A collection of LeetCode questions
 | [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
