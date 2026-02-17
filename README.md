@@ -151,6 +151,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions
 | [0137-single-number-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -312,6 +314,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -326,5 +329,6 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
