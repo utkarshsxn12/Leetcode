@@ -78,6 +78,7 @@ A collection of LeetCode questions
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsxn12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
