@@ -59,6 +59,7 @@ A collection of LeetCode questions
 | [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/utkarshsxn12/Leetcode/tree/master/1037-valid-boomerang) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/utkarshsxn12/Leetcode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsxn12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/utkarshsxn12/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/utkarshsxn12/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
