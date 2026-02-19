@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | [0066-plus-one](https://github.com/utkarshsxn12/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0118-pascals-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/utkarshsxn12/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0190-reverse-bits) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
