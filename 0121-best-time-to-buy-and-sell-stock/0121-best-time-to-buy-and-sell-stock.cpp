@@ -7,10 +7,7 @@ public:
             profit=max(profit, cost);
             mini = min(mini, prices[i]);
         }
-        if(profit>0){
-        return profit;
-        }
-        
+        if(profit>0) return profit;
         return 0;
     }
 };
