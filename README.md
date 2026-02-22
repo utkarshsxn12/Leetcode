@@ -108,6 +108,7 @@ A collection of LeetCode questions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsxn12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsxn12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -448,4 +452,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
