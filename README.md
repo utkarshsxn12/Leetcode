@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions
 | [0191-number-of-1-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/utkarshsxn12/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -452,6 +456,7 @@ A collection of LeetCode questions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -460,4 +465,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
