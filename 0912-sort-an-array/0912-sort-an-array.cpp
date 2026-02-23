@@ -1,46 +1,46 @@
 class Solution {
 public:
     
-    void merge(vector<int>& nums, int left, int mid, int right) {
-        vector<int> temp;
-        
+    void merge(vector<int>& nums, vector<int>& temp, int left, int mid, int right) {
         int i = left;
         int j = mid + 1;
+        int k = left;
         
         while(i <= mid && j <= right) {
             if(nums[i] <= nums[j]) {
-                temp.push_back(nums[i++]);
+                temp[k++] = nums[i++];
             } else {
-                temp.push_back(nums[j++]);
+                temp[k++] = nums[j++];
             }
         }
         
         while(i <= mid) {
-            temp.push_back(nums[i++]);
+            temp[k++] = nums[i++];
         }
         
         while(j <= right) {
-            temp.push_back(nums[j++]);
+            temp[k++] = nums[j++];
         }
         
-        for(int k = left; k <= right; k++) {
-            nums[k] = temp[k - left];
+        for(int p = left; p <= right; p++) {
+            nums[p] = temp[p];
         }
     }
     
-    void mergeSort(vector<int>& nums, int left, int right) {
+    void mergeSort(vector<int>& nums, vector<int>& temp, int left, int right) {
         if(left >= right) return;
         
         int mid = left + (right - left) / 2;
         
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
+        mergeSort(nums, temp, left, mid);
+        mergeSort(nums, temp, mid + 1, right);
         
-        merge(nums, left, mid, right);
+        merge(nums, temp, left, mid, right);
     }
     
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size() - 1);
+        vector<int> temp(nums.size());   
+        mergeSort(nums, temp, 0, nums.size() - 1);
         return nums;
     }
 };
