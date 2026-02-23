@@ -322,6 +322,7 @@ A collection of LeetCode questions
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsxn12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
