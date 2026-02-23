@@ -80,6 +80,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/utkarshsxn12/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/utkarshsxn12/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
