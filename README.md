@@ -68,6 +68,7 @@ A collection of LeetCode questions
 | [0922-sort-array-by-parity-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 | [1037-valid-boomerang](https://github.com/utkarshsxn12/Leetcode/tree/master/1037-valid-boomerang) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Recursion
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsxn12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
