@@ -407,6 +407,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsxn12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
