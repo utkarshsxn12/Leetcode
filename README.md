@@ -167,6 +167,7 @@ A collection of LeetCode questions
 | [1037-valid-boomerang](https://github.com/utkarshsxn12/Leetcode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
@@ -248,6 +249,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/utkarshsxn12/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions
 | [0258-add-digits](https://github.com/utkarshsxn12/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsxn12/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting Sort
