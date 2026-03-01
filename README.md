@@ -144,6 +144,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsxn12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/utkarshsxn12/Leetcode/tree/master/0050-powx-n) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsxn12/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshsxn12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
