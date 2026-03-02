@@ -84,6 +84,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsxn12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/utkarshsxn12/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsxn12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/utkarshsxn12/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarshsxn12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsxn12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Tree
