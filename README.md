@@ -79,6 +79,7 @@ A collection of LeetCode questions
 | [1480-running-sum-of-1d-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsxn12/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
