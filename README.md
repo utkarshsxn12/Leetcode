@@ -101,6 +101,7 @@ A collection of LeetCode questions
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
