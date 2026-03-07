@@ -97,6 +97,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
