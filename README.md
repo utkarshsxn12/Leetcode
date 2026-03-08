@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/utkarshsxn12/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/utkarshsxn12/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0054-spiral-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/utkarshsxn12/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/utkarshsxn12/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
