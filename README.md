@@ -469,6 +469,7 @@ A collection of LeetCode questions
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsxn12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/utkarshsxn12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsxn12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsxn12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/utkarshsxn12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
@@ -543,10 +545,12 @@ A collection of LeetCode questions
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/utkarshsxn12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/utkarshsxn12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
 ## String Matching
 |  |
