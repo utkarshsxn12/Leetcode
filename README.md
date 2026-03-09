@@ -107,6 +107,7 @@ A collection of LeetCode questions
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarshsxn12/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
