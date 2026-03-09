@@ -98,6 +98,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsxn12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0065-valid-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions
 | [0018-4sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsxn12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/utkarshsxn12/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -541,4 +543,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsxn12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
