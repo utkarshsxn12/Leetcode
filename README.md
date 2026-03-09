@@ -106,6 +106,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsxn12/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
