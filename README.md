@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/utkarshsxn12/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/utkarshsxn12/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/utkarshsxn12/Leetcode/tree/master/0048-rotate-image) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarshsxn12/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/utkarshsxn12/Leetcode/tree/master/0062-unique-paths) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/utkarshsxn12/Leetcode/tree/master/0561-array-partition) |
