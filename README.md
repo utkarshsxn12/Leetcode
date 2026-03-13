@@ -106,6 +106,7 @@ A collection of LeetCode questions
 | [0043-multiply-strings](https://github.com/utkarshsxn12/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0234-palindrome-linked-list) |
