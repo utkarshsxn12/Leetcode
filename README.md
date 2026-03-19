@@ -481,6 +481,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsxn12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/utkarshsxn12/Leetcode/tree/master/0450-delete-node-in-a-bst) |
