@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0090-subsets-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions
 | [0059-spiral-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsxn12/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions
 | [0046-permutations](https://github.com/utkarshsxn12/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/utkarshsxn12/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/utkarshsxn12/Leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
@@ -500,6 +504,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0110-balanced-binary-tree) |
