@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/utkarshsxn12/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/utkarshsxn12/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0047-permutations-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsxn12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/utkarshsxn12/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/utkarshsxn12/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarshsxn12/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/utkarshsxn12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0055-jump-game) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsxn12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/utkarshsxn12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0503-next-greater-element-ii) |
