@@ -95,6 +95,7 @@ A collection of LeetCode questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsxn12/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsxn12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -619,4 +622,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/utkarshsxn12/Leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
