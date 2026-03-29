@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | [0058-length-of-last-word](https://github.com/utkarshsxn12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/utkarshsxn12/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/utkarshsxn12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/utkarshsxn12/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/utkarshsxn12/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/utkarshsxn12/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/utkarshsxn12/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0119-pascals-triangle-ii) |
