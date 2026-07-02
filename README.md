@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/utkarshsxn12/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarshsxn12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/utkarshsxn12/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/utkarshsxn12/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsxn12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshsxn12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsxn12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsxn12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/utkarshsxn12/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshsxn12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
