@@ -137,6 +137,7 @@ A collection of LeetCode questions
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshsxn12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -534,6 +535,7 @@ A collection of LeetCode questions
 | [0076-minimum-window-substring](https://github.com/utkarshsxn12/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshsxn12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tree
 |  |
 | ------- |
