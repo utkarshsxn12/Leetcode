@@ -484,6 +484,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/utkarshsxn12/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utkarshsxn12/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/utkarshsxn12/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/utkarshsxn12/Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/utkarshsxn12/Leetcode/tree/master/0901-online-stock-span) |
