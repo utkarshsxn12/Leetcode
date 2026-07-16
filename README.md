@@ -230,6 +230,7 @@ A collection of LeetCode questions
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/utkarshsxn12/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarshsxn12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utkarshsxn12/Leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarshsxn12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
