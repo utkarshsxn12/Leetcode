@@ -31,9 +31,9 @@ public:
         if(!root) return 0;
         int l = left(root);
         int r = right(root);
-        if(l==r){
-            return (1<<l)-1;
-        }
+        // if(l==r){
+        //     return (1<<l)-1;
+        // }
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
