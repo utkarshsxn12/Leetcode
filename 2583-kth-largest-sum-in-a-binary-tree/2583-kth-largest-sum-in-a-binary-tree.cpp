@@ -26,8 +26,7 @@ public:
             }
             res.push_back(sum);    
         }
-
-     if (k > res.size()) return -1;
+        if(k>res.size()) return -1;
     sort(res.begin(), res.end(), greater<long long>());
     return res[k-1];
     }
