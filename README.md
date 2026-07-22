@@ -508,6 +508,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/utkarshsxn12/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshsxn12/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/utkarshsxn12/Leetcode/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -591,6 +592,7 @@ A collection of LeetCode questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshsxn12/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/utkarshsxn12/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/utkarshsxn12/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/utkarshsxn12/Leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/utkarshsxn12/Leetcode/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -677,6 +680,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/utkarshsxn12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/utkarshsxn12/Leetcode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
