@@ -1,41 +1,49 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
+        int rows = grid.size();
+        int cols = grid[0].size();
         queue<pair<int,int>> q;
         int fresh = 0;
-        int m = grid.size();
-        int n = grid[0].size();
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] == 2){
-                    q.push({i, j});
-                }
-                else if(grid[i][j] == 1){
-                    fresh++;
-                }
+        for(int r=0; r<rows; r++){
+            for(int c =0; c<cols; c++){
+                if(grid[r][c]==2) q.push({r,c});
+                else if(grid[r][c]==1) fresh++;
             }
         }
         if(fresh == 0) return 0;
         int minutes = 0;
-        vector<pair<int,int>> directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
-        while(!q.empty()){
+        while(!q.empty() && fresh > 0){
             int size = q.size();
-            bool rottenThisMinute = false;
-            for(int i = 0; i < size; i++){
-                auto front = q.front();
+            minutes++;
+            while(size--){
+                pair<int, int> frontcell = q.front();
                 q.pop();
-                for(auto dir : directions){
-                    int x = front.first + dir.first;
-                    int y = front.second + dir.second;
-                    if(x >= 0 && x < m && y >= 0 && y < n && grid[x][y] == 1){
-                        grid[x][y] = 2;
-                        q.push({x, y});
-                        fresh--;
-                        rottenThisMinute = true;
-                    }
+
+                int r = frontcell.first;
+                int c = frontcell.second;
+                //top
+                if(r>0 && grid[r-1][c] == 1){
+                    grid[r-1][c] = 2;
+                    fresh--;
+                    q.push({r-1, c});
+                }
+                   if(r<rows-1 && grid[r+1][c] == 1){
+                    grid[r+1][c] = 2;
+                    fresh--;
+                    q.push({r+1, c});
+                }
+                   if(c>0 && grid[r][c-1] == 1){
+                    grid[r][c-1] = 2;
+                    fresh--;
+                    q.push({r, c-1});
+                }
+                   if(c<cols-1 && grid[r][c+1] == 1){
+                    grid[r][c+1] = 2;
+                    fresh--;
+                    q.push({r, c+1});
                 }
             }
-            if(rottenThisMinute) minutes++;
         }
         return (fresh == 0) ? minutes : -1;
     }
