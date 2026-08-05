@@ -79,6 +79,7 @@ A collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/utkarshsxn12/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/utkarshsxn12/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/utkarshsxn12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsxn12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/utkarshsxn12/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2906-construct-product-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
