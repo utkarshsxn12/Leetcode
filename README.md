@@ -492,6 +492,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/utkarshsxn12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/utkarshsxn12/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/utkarshsxn12/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/utkarshsxn12/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsxn12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0101-symmetric-tree) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0101-symmetric-tree) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshsxn12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/0101-symmetric-tree) |
