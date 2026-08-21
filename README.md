@@ -98,6 +98,7 @@ A collection of LeetCode questions
 | [1394-find-lucky-integer-in-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/utkarshsxn12/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/utkarshsxn12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshsxn12/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions
 | [0977-squares-of-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/utkarshsxn12/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting
 |  |
