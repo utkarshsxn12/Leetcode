@@ -1,19 +1,23 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-       int ans =-1;
-       int n = arr.size();
-       for(int i=0;i<n;i++){
-        int cnt=0;
-        for(int j=0;j<n;j++){
-            if(arr[j]==arr[i]){
-                cnt++;
+        int n = arr.size();
+        int i=0;
+        int maxi = -1;
+        sort(arr.begin(), arr.end());
+        while(i<n){
+            int curval = arr[i];
+            int blocklength = 0;
+            while( i < n && arr[i] == curval){
+                blocklength++;
+                i++;
             }
+            if(blocklength == curval){
+                maxi = max(maxi, curval);
+            }
+            
+
         }
-        if(cnt==arr[i]){
-            ans=max(ans, arr[i]);
-        }
-       } 
-       return ans;
+        return maxi;
     }
 };
