@@ -106,6 +106,7 @@ A collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/utkarshsxn12/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsxn12/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3546-equal-sum-grid-partition-i](https://github.com/utkarshsxn12/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions
 | [0392-is-subsequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/utkarshsxn12/Leetcode/tree/master/0877-stone-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsxn12/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/utkarshsxn12/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/utkarshsxn12/Leetcode/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshsxn12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/utkarshsxn12/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/utkarshsxn12/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshsxn12/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
