@@ -730,4 +730,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utkarshsxn12/Leetcode/tree/master/0146-lru-cache) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
