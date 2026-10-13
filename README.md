@@ -144,6 +144,7 @@ A collection of LeetCode questions
 | [0227-basic-calculator-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/utkarshsxn12/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/utkarshsxn12/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/utkarshsxn12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/utkarshsxn12/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions
 | [0231-power-of-two](https://github.com/utkarshsxn12/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarshsxn12/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/utkarshsxn12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/utkarshsxn12/Leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/utkarshsxn12/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshsxn12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/utkarshsxn12/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/utkarshsxn12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/utkarshsxn12/Leetcode/tree/master/0867-transpose-matrix) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshsxn12/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
